@@ -60,7 +60,7 @@ export default function Home() {
       </Text>
       <Button
         icon="camera"
-        mode="contained"
+        mode="outlined"
         onPress={() => console.log("Pressed")}
       >
         Press me
