@@ -97,5 +97,5 @@ package.json (Project dependencies and scripts)
 
 ## output
 
-![alt text]('output1.jpg')
-![alt text]('output2.jpg')
+![alt text](output1.jpg)
+![alt text](output2.jpg)
