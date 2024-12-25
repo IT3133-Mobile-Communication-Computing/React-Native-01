@@ -16,18 +16,11 @@ export default function Home() {
         jasmine, time seemed to pause, leaving the world in a dreamlike
         stillness."
       </Text>
-      <StatusBar style="auto" />
     </>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
-  },
   body: {
     padding: 8,
     textAlign: "justify",
