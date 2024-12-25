@@ -7,7 +7,7 @@ export default function App() {
   return (
     <PaperProvider>
       <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
+        <Text variant="headlineLarge">Headline Large</Text>
         <StatusBar style="auto" />
       </View>
     </PaperProvider>
