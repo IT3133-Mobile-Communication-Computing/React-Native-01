@@ -31,4 +31,8 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
+  body: {
+    padding: 8,
+    textAlign: "justify",
+  },
 });
