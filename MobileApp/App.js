@@ -8,6 +8,7 @@ export default function App() {
     <PaperProvider>
       <View style={styles.container}>
         <Text variant="headlineLarge">Headline Large</Text>
+        <Text variant="bodyMedium">Body Medium</Text>
         <StatusBar style="auto" />
       </View>
     </PaperProvider>
