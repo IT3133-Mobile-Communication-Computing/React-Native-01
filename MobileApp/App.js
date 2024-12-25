@@ -8,6 +8,7 @@ export default function App() {
     <PaperProvider>
       <View style={styles.container}>
         <Text variant="headlineLarge">Headline Large</Text>
+        <Divider />
         <Text variant="bodyMedium">
           The shimmering light of the moon danced upon the rippling surface of
           the tranquil lake, casting a silvery glow across the landscape.
